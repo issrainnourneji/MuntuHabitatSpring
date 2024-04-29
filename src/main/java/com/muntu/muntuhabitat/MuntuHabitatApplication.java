@@ -1,0 +1,13 @@
+package com.muntu.muntuhabitat;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MuntuHabitatApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(MuntuHabitatApplication.class, args);
+    }
+
+}
